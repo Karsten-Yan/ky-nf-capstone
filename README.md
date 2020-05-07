@@ -1,4 +1,4 @@
-# ky-nf-capstone
+# E-Py-Genetics
 
 ![logo](gif/sequencing_plot.gif)
 
@@ -18,21 +18,25 @@ Data was received from https://github.com/tleonardi/nanocompore/
 * Yeast data import
 * Data export
 
-### 2_Predictive_Modeling
+### 2_Predictive_Modeling_Uncombined_DataFrame
 
 * Data import
 * Train test split
-* Functions
-* Separate Data
-* Aggregated Data
+* Modeling
 
-### 3_RNN (workin in progress)
+### 3_Predictive_Modeling_Combined_DataFrame
+
+* Data import
+* Train test split
+* Modeling
+
+### 4_RNN (workin in progress)
 
 * Data import
 * Packages and Train Test Split
 * Separate Data
 * Separate Data with reduced Feature set
 
-### 4_Visualizations
+### 5_Visualizations
 
 * Gif
