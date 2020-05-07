@@ -1,6 +1,6 @@
 # ky-nf-capstone
 
-![logo](capstone_icon_larsten_yan.png)
+![logo](gif/sequencing_plot.gif)
 
 Detection of epigenetic DNA modification is important for several research applications, including cancer research and analysis of evolutionary mechanisms. However, currently established methods are not powerful enough. To tackle this problem, an AI-based analysis of nanopore sequencing data was implemented in this project.
 
@@ -31,6 +31,8 @@ Data was received from https://github.com/tleonardi/nanocompore/
 * Data import
 * Packages and Train Test Split
 * Separate Data
-* Separate Data with reduced Feature set 
+* Separate Data with reduced Feature set
 
 ### 4_Visualizations
+
+* Gif
