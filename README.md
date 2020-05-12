@@ -30,7 +30,7 @@ Data was received from https://github.com/tleonardi/nanocompore/
 * Train test split
 * Modeling
 
-### 4_RNN (workin in progress)
+### 4_RNN (work in progress)
 
 * Data import
 * Packages and Train Test Split
@@ -39,4 +39,22 @@ Data was received from https://github.com/tleonardi/nanocompore/
 
 ### 5_Visualizations
 
-* Gif
+* Data Import
+* UMAP and tSNE
+* Dwell Time to Mod Status
+* Effect of Base Identity
+* Yeast Data Prediction
+* DNA Feature GIF
+
+## data Folder
+
+* RAW Data received from Nanocompore repository
+
+## figures Folder
+
+* figures generated in notebook 5
+
+## GIF
+
+* gif generated in notebook 5
+* explanatory gif for nanopore sequencing ([source](https://www.youtube.com/watch?v=E9-Rm5AoZGw&t=90s))

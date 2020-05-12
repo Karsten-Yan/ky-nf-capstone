@@ -38,3 +38,7 @@ data/exported/df_yeast_not_combined.csv
 __pycache__
 data/exported/df_yeast_not_combined.csv
 data/exported/df_yeast_combined.csv
+
+data/exported
+data/exported/df_yeast_not_combined.csv
+data/exported/df_yeast_combined.csv
