@@ -6,6 +6,8 @@ Detection of epigenetic DNA modification is important for several research appli
 
 Data was received from https://github.com/tleonardi/nanocompore/
 
+[Google Slides](https://docs.google.com/presentation/d/1usy1A-_OmuS3tVYgu_4owRPxRHVGXeNvdjLj_fFP6Yc/edit?usp=sharing) version of Presentation
+
 # Structure of this repository:
 
 ## Jupyter Notebooks:
